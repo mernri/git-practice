@@ -1,4 +1,4 @@
 Name: Rita
 Age: 27
-Favorite Color: Blue
+Favorite Color: yellow
 
