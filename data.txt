@@ -1,8 +1,4 @@
 Name: Rita
 Age: 27
-<<<<<<< HEAD
 Favorite Color: Blue
-=======
-Favorite Color: Blue
-Training : Ironhack
->>>>>>> 2697a58ed85f6053b37816ff150dfdc9b5b6bede
+
